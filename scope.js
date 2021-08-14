@@ -1,1 +1,1 @@
-    
+ // block scope (let, const) and globarl scope (var)
